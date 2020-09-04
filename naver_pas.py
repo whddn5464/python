@@ -21,7 +21,7 @@ movie_name
 date = pd.date_range('2020-5-1', periods=100, freq='D')
 date
 
-
+soup.find_all('td', 'point')
 movie_date = []
 movie_name = []
 movie_point = []
